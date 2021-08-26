@@ -11,7 +11,7 @@ body{
     font-family: Arial, Helvetica,;
 }
 .how{
-    color: red;
+    color: rgb(170, 103, 16);
     font-family: Verdana, Geneva, Tahoma,;
 }
 .when{
@@ -24,4 +24,8 @@ body{
 }
 table{
     border: dashed;
+}
+.picture{
+    width: 500px;
+    
 }
